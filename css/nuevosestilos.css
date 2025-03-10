@@ -1,0 +1,105 @@
+@charset "UTF-8";
+.dg-mia {
+    background-color: #FC0199;
+}
+.bg-cata {
+    background-color: #FF0946;
+    border-radius: 23px;
+}
+.bg-blanco {
+    background-color: rgba(0,0,0,0.32);
+    color: rgba(255,255,255,1.00);
+    border-radius: 30px;
+}
+.bg-titulo {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-align: center;
+    text-shadow: 2px 0px rgba(0,0,0,0.52);
+    background-image: url(../imagenes/SWEETNEST.png);
+    background-size: 7cm 2cm;
+    background-repeat: no-repeat;
+    width: 8cm;
+    height: 2cm;
+}
+.bg-imagen {
+    background-image: url(../imagenes/FONDO-PAGWEB.png);
+    background-size: contain;
+}
+.bg-imagen2 {
+	background-image: url(../imagenes/pexels-mccutcheon-3695378.jpg);
+	background-size: cover;
+	background-position: 0% 0%;
+}
+.bg-imagen3 {
+	background-image: url(../imagenes/pastel%20chocolate.jpeg);
+}
+.bg-imagen4 {
+	background-image: url(../imagenes/pexels-jessbaileydesign-913136.jpg);
+	background-size: cover;
+	background-position: 0% 21%;
+}
+.bg-logo {
+}
+.bg-favicon {
+    background-image: url(../imagenes/Favicon%20SweetNest.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.titulos {
+    font-family: Glamore;
+    text-align: center;
+    font-size: large;
+}
+.text-pequeño {
+    font-family: Montserrat, "Montserrat Black", "Montserrat ExtraBold", "Montserrat ExtraLight", "Montserrat Light", "Montserrat Medium", "Montserrat SemiBold", "Montserrat Thin";
+}
+.imagen1 {
+    width: 380px;
+    height: 328px;
+    border-radius: 52px;
+}
+
+
+text blanco {
+    color: #FFFFFF;
+}
+.bg-morado {
+    background-repeat: no-repeat;
+    color: #F5E6CA;
+    background-color: #52006E;
+    border-radius: 50px;
+}
+.bg-beige {
+    background-color: #F5E6CA;
+    border-radius: 50px;
+}
+.text-cards-subtitulo {
+    font-family: Poppins;
+    font-style: oblique;
+}
+.bienvenidos {
+    font-family: Glamore;
+    text-align: center;
+}
+.redndeado {
+    border-radius: 23px;
+}
+.titulos2 {
+    font-family: Glamore;
+    font-weight: bold;
+    line-height: 2cm;
+}
+.lista {
+    text-align: left;
+    font-family: Montserrat, "Montserrat Black", "Montserrat ExtraBold", "Montserrat ExtraLight", "Montserrat Light", "Montserrat Medium", "Montserrat SemiBold", "Montserrat Thin";
+    list-style-position: outside;
+
+
+}
+.center {
+    text-align: center;
+}
+.imagen-p2 {
+    width: 150px;
+    height: 150px;
+}
